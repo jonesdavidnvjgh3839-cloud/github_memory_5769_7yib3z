@@ -1,6 +1,6 @@
-# Template Project
+# Aurora Analytics
 
-Starter template for client engagements at Meridian Consulting.
+Client project starter for Nimbus Labs.
 
 > **IMPORTANT**: This repository is a template. Replace all placeholder content
 > before delivering to the client.
