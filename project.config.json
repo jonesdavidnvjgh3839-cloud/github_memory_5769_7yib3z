@@ -1,8 +1,8 @@
 {
-  "project_name": "Template Project",
-  "project_code": "TMPL",
-  "client_name": "ACME Corp",
-  "template": true,
+  "project_name": "Aurora Analytics",
+  "project_code": "AUR",
+  "client_name": "Nimbus Labs",
+  "template": false,
   "modules": {
     "docs": "active",
     "src": "active",
