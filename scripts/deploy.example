@@ -1,0 +1,3 @@
+#!/bin/sh
+# Example deploy script (placeholder)
+echo 'deploy example'

@@ -1,0 +1,18 @@
+{
+  "project_name": "Template Project",
+  "project_code": "TMPL",
+  "client_name": "ACME Corp",
+  "template": true,
+  "modules": {
+    "docs": "active",
+    "src": "active",
+    "config": "active",
+    "assets": "active",
+    "scripts": "active",
+    "tests": "active",
+    "templates": "active",
+    "reports": "active",
+    "data": "active",
+    "legacy": "retired"
+  }
+}

@@ -1,0 +1,8 @@
+# Runtime settings
+
+app:
+  name: engagement-app
+  debug: false
+
+logging:
+  level: info
