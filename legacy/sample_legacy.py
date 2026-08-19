@@ -1,1 +1,0 @@
-# Legacy sample placeholder
